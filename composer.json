@@ -6,8 +6,11 @@
       "name": "LivechatInc"
     },
     {
-      "name": "Webgriffe SRL"
+      "name": "Webgriffe SRL",
       "email": "support@webgriffe.com"
     }
-  ]
+  ],
+  "replace": {
+    "webgriffe/livechat": "1.*"
+  }
 }
