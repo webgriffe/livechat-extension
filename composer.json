@@ -12,5 +12,8 @@
   ],
   "replace": {
     "webgriffe/livechat": "1.*"
+  },
+  "extra": {
+    "package-xml": "package.xml"
   }
 }
