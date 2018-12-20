@@ -1,14 +1,22 @@
-# Magento 1.x plugin
+# LiveChat Magento 1.x Extension
 
-To prepare *.tgz file for this integration please use [MagentoTarToConnect](https://github.com/astorm/MagentoTarToConnect) tool.
-It will make creating archive as painless as possible.
+This is a fork of the official [LiveChat](https://www.livechatinc.com/) extension for Magento 1.x. You can find a mirror repository of the official LiveChat extension for Magento 1.x [here](https://github.com/webgriffe/livechat-livechat).
 
-To use aforementioned tool you need config file. In main directory there is `config.php` file that is mostly ready just fill two parameters: `path_output`, `base_dir`, and update third - `archive_files`.
-After that, just do 
-```php
-$ ./magento-tar-to-connect.php config.php
+## Installation
+
+Use Composer:
+
+```bash
+composer require webgriffe/livechat-extension
 ```
-and upload newly created `*.tgz`.
+
+## Features
+
+See the **Releases** page for more informations about features added to this fork respect the official extension.
+
+## License
+
+See the **LICENSE** file.
 
 
 

@@ -1,9 +1,13 @@
 {
-  "name": "webgriffe/livechat",
+  "name": "webgriffe/livechat-extension",
   "type": "magento-module",
   "authors": [
     {
       "name": "LivechatInc"
+    },
+    {
+      "name": "Webgriffe SRL"
+      "email": "support@webgriffe.com"
     }
   ]
 }
