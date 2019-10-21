@@ -29,7 +29,7 @@
     </dependencies>
     <contents>
         <target name="mage">
-            <file name="readme.md" hash="835246f42ae6b2339ec717ab4424dc1a"/>
+            <file name="README.md" hash="835246f42ae6b2339ec717ab4424dc1a"/>
             <dir name="skin">
                 <dir name="adminhtml">
                     <dir name="base">
