@@ -34,7 +34,7 @@
 			</adminhtml>
         </routers>
     </admin>
-	
+
     <adminhtml>
 		<menu>
 			<livechat module="livechat">
@@ -76,8 +76,8 @@
 				</livechat>
 			</updates>
 		</layout>
-    </adminhtml>   
-	
+    </adminhtml>
+
     <global>
         <blocks>
             <livechat>
@@ -95,12 +95,14 @@
 			</livechat>
 		</models>
     </global>
-	
+
 	<default>
         <livechat>
             <general>
 				<license></license>
 				<login></login>
+                <mobile>No</mobile>
+                <cart>Yes</cart>
             </general>
         </livechat>
     </default>
